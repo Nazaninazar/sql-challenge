@@ -21,7 +21,7 @@ Inspected the CSVs and sketch out an ERD of the tables. Feel free to use a tool 
 
 #### Data Engineering
 
-* Used the information I have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+* Used the information I have to create a table schema for each of the six CSV files. Remembered to specify data types, primary keys, foreign keys, and other constraints.
 
 * Imported each CSV file into the corresponding SQL table.
 
